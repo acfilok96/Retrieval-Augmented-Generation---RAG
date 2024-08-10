@@ -3,4 +3,4 @@
 
 # Application PoC
 
-[**Q&A with PDF**](https://rag-pdf-blu-1-242.streamlit.app/)
+[**Chat with PDF**](https://rag-pdf-blu-1-242.streamlit.app/)
